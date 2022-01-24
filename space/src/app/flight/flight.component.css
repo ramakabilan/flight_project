@@ -1,0 +1,55 @@
+img{
+    height:150px;
+    width: 100%;
+}
+.fligt{
+    padding: 6px;
+}
+.main {
+    background-color: #ddd9d9;
+    padding: 25px;
+}
+
+.btn{
+    margin: 10px;
+}
+#year{
+    text-align: center;
+    text-decoration: underline;
+}
+.card{
+    border-radius: 10px;
+}
+.card1 {
+    margin-top: 10%;
+}
+.card:hover{
+    border: 1px solid gray;
+
+}
+
+.head1 {
+    color: blue;
+}
+
+
+
+/* @media screen and (max-width:320px){
+    h3{
+       font-size: 30px;
+       font-weight: bold;
+    }
+    h5{
+        font-size: 20px;
+        font-weight: bold;
+        padding: 20px;
+    }
+    #year{
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .btn{
+        margin: 10px 10px 10px 30px;
+    }
+
+} */
